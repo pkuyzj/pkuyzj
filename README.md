@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pkuyzj
+- My name is Zongjun Yang.
 - I am a grade 3 undergraduate in Department EECS, Peking University. I major in computer science.
 - My research interests are in algorithmic game theory, social computing, and EconCS.
-- I’m currently learning extensively on mathematics and theories of computation, including mathematical logics, machine learning, complexity theory, cryptography and distributed computing.
-- My recent works include blockchain identity, public good games and the relationship between machine learning and social behaviour.
+- I’m currently learning extensively on mathematics and theories of computation, including machine learning, complexity theory, convex optimization, algorithmic game theory. I'm also interested in philosophy and epistemics. 
+- My recent works include mechanism design, online learning, network games.
 - Email: allenyzj@stu.pku.edu.cn
 
 <!---
